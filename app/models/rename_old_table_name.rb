@@ -1,0 +1,2 @@
+class RenameOldTableName < ApplicationRecord
+end
